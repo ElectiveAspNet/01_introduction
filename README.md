@@ -2,7 +2,7 @@
 ### _KEA CS 4th Semester 02-02-2017_
 
 ## Agenda today
-The porpouse of today is to introduce you to ASP.NET Core 1.0. 
+The porpouse of today is to introduce you to ASP.NET Core 1.0 and to introduce you to the enxt 14 week in this elective. 
 
 We will start out by doing a low level introduction to how .NET Core, and ASP.NET Core works. 
 This will include installing .NET Core on Windows, Mac or Linux, creating a first hello world console application, and 
