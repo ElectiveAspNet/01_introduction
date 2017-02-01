@@ -15,7 +15,8 @@ creating a basic asp.net web application. We will also install and start using t
     * _(Specific videos from here will be used)_
 
 ## Curicullum
-* [MVA: Introduction to ASP.NET Core and Tooling](https://mva.microsoft.com/en-US/training-courses/introduction-to-aspnet-core-10-16841?l=JWZaodE6C_5706218965)
+* [Video: Introduction to ASP.NET Core and Tooling](https://mva.microsoft.com/en-US/training-courses/introduction-to-aspnet-core-10-16841?l=JWZaodE6C_5706218965)
+* [Video: Web Apps and Middleware](https://mva.microsoft.com/en-US/training-courses/introduction-to-aspnet-core-10-16841?l=yCG2vdE6C_6406218965)
 * [Getting Started with ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/getting-started)
 * [Application Startup in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/startup)
 * [Middleware](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/middleware)
@@ -46,4 +47,5 @@ dotnet restore
 dotnet run
 ````
 
-## Resources    
+## Further Resources  
+* [git](https://git-scm.com/)  
