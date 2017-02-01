@@ -41,7 +41,7 @@ dotnet new
 ````
 dotnet restore
 ````
-4. Run the app (the dotnet run command will build the app when it's out of date):
+4. Run the app (the dotnet run command will build (compile) the app when it's out of date):
 ````
 dotnet run
 ````
