@@ -8,7 +8,7 @@ We will start out by doing a low level introduction to how .NET Core, and ASP.NE
 This will include installing .NET Core on Windows, Mac or Linux, creating a first hello world console application, and 
 creating a basic asp.net web application. We will also install and start using the VS Code editor.
 
-## Books & Materials
+## Books & Materials in this Semester
 * [dot.net](dot.net)
     * _(Everything you will need is here)_
 * [MVA Asp.net Core](https://mva.microsoft.com/training-topics/web-development#!index=3&jobf=Developer&lang=1033)
@@ -17,6 +17,10 @@ creating a basic asp.net web application. We will also install and start using t
 ## Curicullum
 * [MVA: Introduction to ASP.NET Core and Tooling](https://mva.microsoft.com/en-US/training-courses/introduction-to-aspnet-core-10-16841?l=JWZaodE6C_5706218965)
 * [Getting Started with ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/getting-started)
+* [Application Startup in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/startup)
+* [Middleware](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/middleware)
+* [Working with static files in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/static-files)
+
 
 
 ## Installation of .net core
