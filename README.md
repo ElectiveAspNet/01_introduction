@@ -4,8 +4,8 @@
 ## Agenda today
 The porpouse of today is to introduce you to ASP.NET Core 1.0 and to introduce you to the enxt 14 week in this elective. 
 
-We will start out by doing a low level introduction to how .NET Core, and ASP.NET Core works. 
-This will include installing .NET Core on Windows, Mac or Linux, creating a first hello world console application, and 
+We will start out by doing a low level introduction to how .NET Core, and ASP.NET Core works. We will look at the basic building blocks which a ASP.NET Core application is made off.
+We will install .NET Core on Windows, Mac or Linux, create a first hello world console application, and 
 creating a basic asp.net web application. We will also install and start using the VS Code editor.
 
 ## Books & Materials in this Semester
