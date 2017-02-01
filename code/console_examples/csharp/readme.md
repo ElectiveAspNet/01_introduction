@@ -7,10 +7,10 @@ As with Java programs, you can run this C# program from the console of your comp
 
 ````C#    
 // compile your program 
-$ javac Main.java
+$ dotnet build 
 
 // Run the program
-$ java Main
+$ dotnet run
 
 ````
 
