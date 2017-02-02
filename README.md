@@ -1,6 +1,8 @@
 # Day 1 - Introduction to Web Development with ASP.NET Core MVC
 ### _KEA CS 4th Semester 02-02-2017_
 
+The code examples from todays class can be found [here](https://github.com/keacore?utf8=%E2%9C%93&q=01&type=&language=).
+
 ## Agenda today
 The porpouse of today is to introduce you to ASP.NET Core 1.0 and to introduce you to the enxt 14 week in this elective. 
 
