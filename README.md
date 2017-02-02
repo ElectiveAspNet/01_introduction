@@ -9,7 +9,7 @@ We will install .NET Core on Windows, Mac or Linux, create a first hello world c
 creating a basic asp.net web application. We will also install and start using the VS Code editor.
 
 ## Books & Materials in this Semester
-* [dot.net](dot.net)
+* [dot.net](http://dot.net)
     * _(Everything you will need is here)_
 * [MVA Asp.net Core](https://mva.microsoft.com/training-topics/web-development#!index=3&jobf=Developer&lang=1033)
     * _(Specific videos from here will be used)_
