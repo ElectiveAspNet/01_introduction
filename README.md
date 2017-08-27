@@ -4,7 +4,7 @@
 The code examples from todays class can be found <!-- [here](https://github.com/keacore?utf8=%E2%9C%93&q=01&type=&language=).-->
 
 ## Agenda today
-The porpouse of today is to introduce you to ASP.NET Core 1.0 and to introduce you to the enxt 14 week in this elective. 
+The porpouse of today is to introduce you to ASP.NET Core and to introduce you to the next 14 week in this elective. 
 
 We will start out by doing a low level introduction to how .NET Core, and ASP.NET Core works. We will look at the basic building blocks which a ASP.NET Core application is made off.
 We will install .NET Core on Windows, Mac or Linux, create a first hello world console application, and 
