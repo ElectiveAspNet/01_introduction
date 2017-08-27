@@ -36,15 +36,11 @@ _(If you are on Windows choose "Select your environment" -> "Command Line / Othe
 2. Create a new .NET Core project:
 
 ````
-mkdir aspnetcoreapp
-cd aspnetcoreapp
-dotnet new
+dotnet new console -o hwapp
+cd hwapp
+
 ````
-3. Restore the packages:
-````
-dotnet restore
-````
-4. Run the app (the dotnet run command will build (compile) the app when it's out of date):
+3. Run the app (the dotnet run command will build (compile) the app when it's out of date):
 ````
 dotnet run
 ````
