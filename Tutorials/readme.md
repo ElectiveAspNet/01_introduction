@@ -1,6 +1,7 @@
 # GIT-IT
 
-## Git-it is a super basic tutorial on Git and Github coorperation, for the ones of you who need a brush-up.
+## For the ones of you who need a GIT brush-up:
+### Git-it is a super tutorial on Git and Github coorperation.
 
 * [Description](https://github.com/jlord/git-it-electron)
 * [Download](https://github.com/jlord/git-it-electron/releases)
